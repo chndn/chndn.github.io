@@ -80,7 +80,7 @@ These are some of the things that I came across during my prep which gave and ex
 I believe the hardest part of the prep was getting started. Not having interviewed for the past 9 years definitely makes one rusty. With gradual practice and accepting the fact that some concepts like DP, Backtracking and System design will take plenty time to learn and practice, helped set a realistic pace for my overall preparation. It then became a numbers game of trying for multiple companies, I tried for 10 in total, either succeeding at them or learning from them. As long as you take time and introspect on what went well and what could be done better after your interviews you are bound to get better.
 It also helps to remember that *[It ain't about how hard you hit... - Rocky](https://www.youtube.com/watch?v=O_xt9mQuaEQ&ab_channel=jimkaiser1)*
 
-**Offers** : Throught the course of my job hunt using the above guide and steps I was able to secure following offers
+**Offers** : Throughout the course of my job hunt using the above guide and steps I was able to secure following offers
 - Oracle : PMTS
 - Salesforce : LMTS
 - Microsoft : Sr. Engg
