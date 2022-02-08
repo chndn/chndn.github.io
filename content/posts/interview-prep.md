@@ -5,20 +5,14 @@ draft: false
 ---
 
 ### Preface
-I curated these notes over the course of my preparation for tech interviews, targeted at getting Senior Engineer position in the fall of 2021. At the time of interviewing I was employed as SDE 2 at Amazon with total 8 years of experience.
+I curated these notes over the course of my preparation for tech interviews during the fall of 2021. Majority of the preparation was targeted at getting Sr. Engineering positions, but the overall prep strategy is going to be similar across engineering levels from Junior to Senior. Entry level engineers can skip the System Design sections. 
+During the preparation I was employed at Amazon as SDE 2, with total 8 years of experience.
 
 **Time spent** : 3 months for prep, began interviewing 2.5 months from the beginning of prep
 
-**Monetary Investment** : Buying the following is completely optional, though hopefully you too will see value in making these small investments
+**Monetary Investment** : Buying these is completely optional, but having these does save some time during practice
 - Leetcode $160 (annual)
 - Educative $60 (1 month)
-
-**Offers** : Throught the course of my job hunt I was able to secure following offers
-- Oracle : PMTS
-- Salesforce : LMTS
-- Microsoft : Sr. Engg
-- Facebook : E5
-- Google : L5
 
 #### Interview strategy
 I planned my interviews in an *increasing* level of difficulty. Clearing easy phone screens early on and getting an offer in hand is not only a huge confidence boost but also provides that much needed leverage which helps expedite the subsequent interviews. Although gaining momentum from knocking out easier interviews is important, the inevitable failures during the process provides much needed pitstops to identify the gaps, course correct and then apply those learnings down the line. So I hope by the time you interview for *your dream* company you would be wiser from you past recent experiences.
@@ -66,7 +60,7 @@ Though the educative courses only cover high level details and concepts, they he
 3. Insist on getting interviewed for same level or above; [check levels](https://www.levels.fyi/?compare=Google,Facebook,Amazon&track=Software%20Engineer), ask them to down level only if you do bad in interviews. No point interviewing for a level below.
 4. Try and push for date sooner if you have time crunch or later if you need time to prep. Asking for timelines is mostly in your control and most recruiters are really accomodating
 5. You can even ask to be considered for multiple teams in parallel (Some companies allow that, doubles your chances straight away)
-6. **IMPORTANT** Schedule phone screens as you want, but try to club as many on-site interviews together so you have final results in the same time period and then you can negotiate you final compensation leveraging your other offers, [educative course on negotiation](https://www.educative.io/courses/grokking-comp-negotiation)
+6. **Important !** Schedule phone screens as you want, but try to club as many on-site interviews together so you have final results in the same time period and then you can negotiate you final compensation leveraging your other offers, [educative course on negotiation](https://www.educative.io/courses/grokking-comp-negotiation)
 7. If you have competing offers, ask to get interviewed asap. You can explicitly mention that you have offer from other companies, this even helps recruiters to fasten things up. You should strive to get the results of the companies as close to each other as possible to negotiate salary, location, perks etc
 
 ## Company specific prep
@@ -86,8 +80,15 @@ These are some of the things that I came across during my prep which gave and ex
 I believe the hardest part of the prep was getting started. Not having interviewed for the past 9 years definitely makes one rusty. With gradual practice and accepting the fact that some concepts like DP, Backtracking and System design will take plenty time to learn and practice, helped set a realistic pace for my overall preparation. It then became a numbers game of trying for multiple companies, I tried for 10 in total, either succeeding at them or learning from them. As long as you take time and introspect on what went well and what could be done better after your interviews you are bound to get better.
 It also helps to remember that *[It ain't about how hard you hit... - Rocky](https://www.youtube.com/watch?v=O_xt9mQuaEQ&ab_channel=jimkaiser1)*
 
+**Offers** : Throught the course of my job hunt using the above guide and steps I was able to secure following offers
+- Oracle : PMTS
+- Salesforce : LMTS
+- Microsoft : Sr. Engg
+- Facebook : E5
+- Google : L5
+
 Best of luck
 
-\- *Chandan Kumar*
+\- *[Chandan Kumar](https://www.linkedin.com/in/chndnkmr/)*
 
 
