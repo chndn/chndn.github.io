@@ -1,0 +1,4 @@
+baseURL = 'https://chndn.github.io/'
+languageCode = 'en-us'
+title = 'Chandan Kumar'
+theme = "ananke"
